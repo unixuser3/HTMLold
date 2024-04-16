@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recuvery - Recovery Solutions, On-Demand DaRT, At Your Door</title>
+    <link rel="stylesheet" href="style.css">  </head>
+<body>
+    <header>
+        <nav>
+            <h1><a href="#">Recuvery</a></h1> 
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <div class="container">
+            <h2>Your Data Recovery Lifeline</h2>
+            <p>Fast, reliable, and secure data recovery solutions whenever you need them.</p>
+            <button>Get Started Now</button>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h3>Our Services</h3>
+            <div class="service">
+                <img src="placeholder-image.jpg" alt="Recovery Solutions"> 
+                <h4>Recovery Solutions</h4>
+                <p>Comprehensive data recovery for hard drives, servers, RAID arrays, and more.</p>
+            </div>
+            <div class="service">
+                <img src="placeholder-image.jpg" alt="On-demand DaRT Services"> 
+                <h4>On-Demand DaRT Services</h4>
+                <p>Remote and on-site disaster recovery and troubleshooting expertise.</p>
+            </div>
+            <div class="service">
+                <img src="placeholder-image.jpg" alt="Physical Recovery"> 
+                <h4>Physical At Your Door Recovery</h4>
+                <p>On-location data recovery services for the most critical situations.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="why-us">
+        <div class="container">
+            <h3>Why Choose Recuvery</h3>
+            <ul>
+                <li>Cutting-edge recovery techniques</li>
+                <li>Fast response times and secure processes</li> 
+                <li>A team of experienced data recovery professionals</li>
+                <li>Affordable and transparent pricing</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h3>Contact Us</h3>
+            <p>Get in touch for a free consultation.</p>
+            <form>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Recuvery. All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
+
